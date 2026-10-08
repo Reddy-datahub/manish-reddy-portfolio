@@ -177,6 +177,9 @@ export default function Home() {
             <a href="https://www.linkedin.com/in/manish-g-6733297" target="_blank" rel="noopener noreferrer" className="border border-white/20 px-6 py-4 font-mono text-xs font-bold tracking-widest text-white transition hover:border-sky-400/70">
               LINKEDIN ↗
             </a>
+            <a href="https://github.com/Reddy-datahub" target="_blank" rel="noopener noreferrer" className="border border-white/20 px-6 py-4 font-mono text-xs font-bold tracking-widest text-white transition hover:border-sky-400/70">
+              GITHUB ↗
+            </a>
             <a href="/Manish-Reddy-Resume.pdf" target="_blank" rel="noopener noreferrer" className="border border-white/20 px-6 py-4 font-mono text-xs font-bold tracking-widest text-white transition hover:border-sky-400/70">
               RESUME PDF ↗
             </a>
