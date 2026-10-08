@@ -12,10 +12,10 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
-  title: "Supreeth Kinnera | Full Stack Java Developer",
+export const metadata: Metadata = {
+  title: "Manish Reddy | AI Data Engineer",
   description:
-    "Portfolio of Supreeth Kinnera, a Full Stack Java Developer specializing in Java 21, Spring Boot, Microservices, Kafka, React, AWS, PostgreSQL, Redis, and GenAI.",
+    "Portfolio of Manish Reddy, an AI Data Engineer building scalable data platforms, ETL/ELT pipelines, real-time streaming solutions, and GenAI data workflows.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
