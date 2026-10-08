@@ -223,9 +223,9 @@ export default function Home() {
             </div>
             <div className="grid grid-cols-2 gap-3">
               <Metric value="5+" label="YEARS EXPERIENCE" />
-              <Metric value="03" label="DATA TEAMS" />
-              <Metric value="REAL-TIME" label="STREAMING DATA" />
-              <Metric value="AI-READY" label="DATA PIPELINES" />
+              <Metric value="PYTHON / SQL" label="CORE DATA SKILLS" />
+              <Metric value="SPARK / PYSPARK" label="DISTRIBUTED PROCESSING" />
+              <Metric value="AZURE / DATABRICKS" label="CLOUD DATA PLATFORMS" />
             </div>
           </div>
           <div className="mt-16 flex flex-wrap gap-x-8 gap-y-3 border-y border-white/10 py-6 font-mono text-xs tracking-[0.16em] text-slate-500">
