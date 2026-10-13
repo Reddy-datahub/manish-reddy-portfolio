@@ -311,7 +311,7 @@ export default function Home() {
             <p className="max-w-2xl text-lg leading-8 text-slate-400">Interested in data engineering, streaming platforms, or AI-ready data systems? Get in touch.</p>
             <div className="space-y-3">
               <ContactLink label="EMAIL" value="reddy.mg99@gmail.com" href="mailto:reddy.mg99@gmail.com" />
-              <ContactLink label="LINKEDIN" value="Connect on LinkedIn ↗" href="https://www.linkedin.com/in/manish-g-a36733297/" external />
+              <ContactLink label="LINKEDIN" value="Connect on LinkedIn ↗" href="https://www.linkedin.com/in/manish-g-6733297/" external />
               <ContactLink label="GITHUB" value="Reddy-datahub ↗" href="https://github.com/Reddy-datahub" external />
               <ContactLink label="RESUME" value="View resume PDF ↗" href="/Manish-Reddy-Resume.pdf" external />
             </div>
